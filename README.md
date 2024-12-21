@@ -11,6 +11,9 @@
 	* [한국어](#한국어)
 	* [English](#english)
 
+# 코드를 참고하시기 전에
+- 이 코드는 [스튜디오 모레미(팀 포레스트)](https://github.com/seedkkutu)의 [씨앗끄투](https://github.com/seedkkutu/seedkkutu)를 참고하였습니다.
+
 ## 한국어
 > 끝말잇기를 다양하게. 다스끄투
 
